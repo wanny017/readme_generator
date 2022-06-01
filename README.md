@@ -51,7 +51,7 @@
   ## [Usage](#table-of-contents)
   This application will be used as a form template to create high-quality customized README files.
 
-  ![Gif demo of README-generator](/readme_generator.gif)
+  ![Gif demo of README-generator](./readme_generator.gif)
 
   When you run `node index.js`, the application uses the `inquirer` package to prompt you in the command line with a series of questions about your GitHub and about your project.
 
