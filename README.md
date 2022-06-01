@@ -49,7 +49,8 @@
 ---
 
   ## [Usage](#table-of-contents)
-  ![Gif demo of README-generator](readme_generator.gif)
+  
+  ![Gif demo of README-generator](readmegenerator.gif)
   
  This application will be used as a form template to create high-quality customized README files.
 
